@@ -13,11 +13,12 @@ init();
 
 document.querySelector('.btn-roll').addEventListener('click', function() {
 	if(gamePlaying) {
+		var dice, diceDOM;
 		// 1. Create random dice
-		var dice = Math.floor(Math.random() * 6) + 1;
+		dice = Math.floor(Math.random() * 6) + 1;
 	
 		// 2. Display the random dice
-		var diceDOM = document.querySelector('.dice');
+		diceDOM = document.querySelector('.dice');
 		diceDOM.style.display= 'block';
 		diceDOM.src = 'dice-' + dice + '.png';
 	
