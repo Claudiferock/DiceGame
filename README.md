@@ -7,7 +7,8 @@
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 
-<a href="https://gyazo.com/9b85147942bb4d8958b934e7956ab586"><img src="https://i.gyazo.com/9b85147942bb4d8958b934e7956ab586.png" alt="Image from Gyazo" width="1080"/></a>
+<a href="https://raw.githubusercontent.com/Claudiferock/DiceGame/master/screenshot.png"><img src="https://raw.githubusercontent.com/Claudiferock/DiceGame/master/screenshot.png" alt="Screenshot of React Native Calculator app with operations history" width="1080"/></a>
+
 
 ### References
 Based on a project by Jonas Schmedtmann on udemy.com
